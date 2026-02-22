@@ -1,0 +1,10 @@
+Version: d975f22
+Binary Name: parrot
+Build Tags: none
+Git Commit: d975f22633a9f42753544476017c1668273d3b51
+Git Commit (short): d975f22
+Git Branch: main
+Git Tag: none
+Build Time: 2026-02-21T19:58:42Z
+GOOS: linux
+GOARCH: amd64
