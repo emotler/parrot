@@ -61,7 +61,7 @@ Common situations where parrot pays off immediately:
 ## Installation
 
 ```bash
-git clone <repo>
+git clone https://github.com/emotler/parrot
 cd parrot
 go build -o parrot .
 ```
